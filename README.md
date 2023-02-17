@@ -1,1 +1,1 @@
-# [blog](https://github.com/chenyue404/blog/discussions)
+**[BLOG](https://github.com/chenyue404/blog/discussions)**
